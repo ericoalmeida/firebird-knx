@@ -1,6 +1,6 @@
 {
-  "name": "firebird-knex",
-  "version": "0.0.6",
+  "name": "firebird-knx",
+  "version": "0.0.7",
   "description": "Knex dialect for FirebirdSQL RDBMS",
   "main": "lib/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/igorklopov/firebird-knex.git"
+    "url": "git+https://github.com/ericoalmeida/firebird-knx.git"
   },
   "keywords": [
     "node",
@@ -22,9 +22,9 @@
   "author": "Igor Klopov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/igorklopov/firebird-knex/issues"
+    "url": "https://github.com/ericoalmeida/firebird-knx/issues"
   },
-  "homepage": "https://github.com/igorklopov/firebird-knex#readme",
+  "homepage": "https://github.com/ericoalmeida/firebird-knx",
   "dependencies": {
     "debug": "^4.1.1",
     "inherits": "~2.0.4",
