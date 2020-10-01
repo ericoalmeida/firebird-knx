@@ -26,10 +26,12 @@
   },
   "homepage": "https://github.com/ericoalmeida/firebird-knx",
   "dependencies": {
+    "bluebird": "^3.7.2",
     "debug": "^4.1.1",
     "inherits": "~2.0.4",
     "lodash": "^4.17.15",
-    "node-firebird": "^0.8.9"
+    "node-firebird": "^0.8.9",
+    "sqlite3": "^5.0.0"
   },
   "devDependencies": {
     "babel": "^5.2.17",
