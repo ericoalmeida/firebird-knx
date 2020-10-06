@@ -1,7 +1,7 @@
 ## Firebird Knx
 
 <p align="left" >
-  <img src="./src/assets/Firebird-knx.png" width="400" alt="Firebird-knx" />
+  <img src="./src/assets/Firebird-knx.png" width="600" alt="Firebird-knx" />
 </p>
 
 ![GitHub issues](https://img.shields.io/github/issues/ericoalmeida/firebird-knx?style=flat-square)
