@@ -1,12 +1,15 @@
 ## Firebird Knx
 
+<p align="left" >
+  <img src="./assets/Firebird-knx.svg" width="250" alt="Firebird-knx" />
+</p>
+
 ![GitHub issues](https://img.shields.io/github/issues/ericoalmeida/firebird-knx?style=flat-square)
 ![GitHub contributors](https://img.shields.io/github/contributors/ericoalmeida/firebird-knx?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ericoalmeida/firebird-knx?style=flat-square)
 ![GitHub language count](https://img.shields.io/github/languages/count/ericoalmeida/firebird-knx?style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/ericoalmeida/firebird-knx?style=flat-square)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ericoalmeida/firebird-knx?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/ericoalmeida/firebird-knx?style=flat-square)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ericoalmeida/firebird-knx?style=flat-square)
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/ericoalmeida/firebird-knx?style=flat-square)
 
